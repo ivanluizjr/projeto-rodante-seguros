@@ -1,0 +1,18 @@
+.fade {
+    opacity: 0.7;
+}
+
+.fade:hover {
+    opacity: 1;
+}
+
+#formFundo {
+    background: #DCDCDC;
+    border-radius: 10px;
+}
+
+hr {
+    color: black;
+    background-color: darkslategray;
+    height: 3px;
+}
