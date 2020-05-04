@@ -1,7 +1,7 @@
 # Projeto Site Rodante Seguros
 Esse é um site em desenvolvimento da empresa Rodante Corretora de Seguros.
 
-O site é desenvolvido em HTML, CSS, JavaScript e back-end em PHP.
+O site é desenvolvido em HTML, CSS, JavaScript, framework Bootstrap e back-end em PHP.
 
 Temos formulários onde quando os mesmos são preenchidos, é disparado e-mail contendo todos os dados para um e-mail direto da corretora, onde os usuários podem coletar esses dados e entrar em contato com o cliente fazendo uma cotação de seguro que foi solicitada ou fazendo abertura de um sinistro se o formulário de sinistro for preenchido.
 
